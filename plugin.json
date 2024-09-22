@@ -1,8 +1,8 @@
 {
-  "name": "plugin-sample-vite",
-  "author": "frostime",
-  "url": "https://github.com/frostime/plugin-sample-vite",
-  "version": "0.3.5",
+  "name": "siyuan-classify",
+  "author": "steve",
+  "url": "https://github.com/loonghfut/siyuan-classify",
+  "version": "0.0.1",
   "minAppVersion": "3.0.12",
   "backends": [
     "windows",
@@ -20,12 +20,12 @@
     "desktop-window"
   ],
   "displayName": {
-    "en_US": "Plugin sample with vite",
-    "zh_CN": "插件样例 vite 版"
+    "en_US": "Classify",
+    "zh_CN": "分类聚合"
   },
   "description": {
-    "en_US": "SiYuan plugin sample with vite",
-    "zh_CN": "使用 vite 开发的思源插件样例"
+    "en_US": "Classify blocks and merge them into a new note",
+    "zh_CN": "实现将块分类，将相同分类的块合并成一个新笔记"
   },
   "readme": {
     "en_US": "README.md",
@@ -37,6 +37,6 @@
     ]
   },
   "keywords": [
-    "plugin", "sample", "插件样例"
+    "plugin", "分类聚合", "classify"
   ]
 }
